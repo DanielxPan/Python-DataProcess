@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 27 12:16:30 2024
-
-@author: danielp
-"""
-
 
 # Delete files in R drive
 import os
