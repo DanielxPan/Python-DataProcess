@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 27 10:11:09 2024
-
-@author: danielp
-"""
-
 
 # importing all the required modules
 import PyPDF2
